@@ -36,7 +36,7 @@ INVO应用程序分为两部分，即通常我们说的前台后台。前台部�
 
 标准路由器
 ---------------
-INVO使用标准的内奸路由器组件，此路由的匹配模式如下 /:controller/:action/:params  ，这意味着，URL中的第一部分是控制器，第二个是action方法。
+INVO使用标准的内建路由器组件，此路由的匹配模式如下 /:controller/:action/:params  ，这意味着，URL中的第一部分是控制器，第二个是action方法。
 
 路由 /session/register 将要执行SessionController中的RegisterAction方法
 
